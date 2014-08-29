@@ -1,0 +1,12 @@
+.navbar-wrapper
+	.container
+		.header
+			ul.nav.nav-pills.pull-right
+				for item in locals.menu
+					li
+						a(href=item.url)
+							=item.name
+			a(href="/")
+				img(src='/images/logo_small.png', alt=locals.name)
+
+		hr

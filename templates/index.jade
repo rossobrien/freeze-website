@@ -1,0 +1,40 @@
+extends layout
+
+block content
+	.container
+		.row
+			
+			.col-md-4
+				img.img-responsive(src="/images/team.jpg")
+
+			.col-md-4
+				.well
+					h2 Seattle Freeze Ultimate
+					p
+						| Seattle Freeze is a mixed team founded in 2014
+			.col-md-4
+				img.img-responsive(src="images/mandate.jpg")
+
+		.row
+			.col-md-8
+				.well.latest
+					h2 Latest News
+					p
+						| No recent posts
+
+			.col-md-4
+				img.img-responsive(src="/images/line.jpg")
+
+		.row
+			.col-md-4
+				img.img-responsive(src="images/laws.jpg")
+
+			.col-md-4
+				img.img-responsive(src="/images/huddle.jpg")
+
+			.col-md-4
+				a.twitter-timeline(href="https://twitter.com/freezeultimate", data-widget-id="268040900020682752")
+					| Tweets by @freezeultimate
+
+	script(type='text/javascript').
+		!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");

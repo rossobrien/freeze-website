@@ -1,0 +1,67 @@
+{
+	"locals": {
+		"name": "Seattle Freeze",
+		"url": "http://local.freezeultimate.com/",
+		"description": "Seattle mixed Ultimate team founded in 2014",
+		"menu": 
+		[
+			{
+				"name": "Home",
+				"description": "",
+				"url": "/"
+			},
+			{
+				"name": "2014 Season",
+				"description": "",
+				"url": "/season"
+			},
+			{
+				"name": "Roster",
+				"description": "",
+				"url": "/roster"
+			},
+			{
+				"name": "Blog",
+				"description": "",
+				"url": "/blog"
+			},
+			{
+				"name": "Contact",
+				"description": "",
+				"url": "/contact"
+			}
+		],
+		"social": 
+		[
+			{
+				"name": "Facebook",
+				"icon": "facebook",
+				"url": "https://www.facebook.com/seattlefreezeultimate"
+			},
+			{
+				"name": "Twitter",
+				"icon": "twitter",
+				"url": "https://twitter.com/freezeultimate"
+			}
+		],
+		"contact":
+		[
+			{
+				"name": "Email",
+				"icon": "envelope",
+				"url": "mailto:seattlefreezecaptains@gmail.com"
+			},
+			{
+				"name": "Facebook",
+				"icon": "facebook",
+				"url": "https://www.facebook.com/seattlefreezeultimate"
+			},
+			{
+				"name": "Twitter",
+				"icon": "twitter",
+				"url": "https://twitter.com/freezeultimate"
+			}
+
+		]
+	}
+}

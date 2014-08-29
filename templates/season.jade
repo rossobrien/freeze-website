@@ -1,0 +1,28 @@
+extends layout
+
+block content
+	.container
+		h1(style="text-align:center;") 2014 Schedule & Results
+
+		br
+
+		for item in page.metadata.tournaments
+			.row.tournament
+				.col-md-6.col-sm-12
+						h3
+							=item.name
+						h4
+							=item.dates
+						h4 
+							=item.location
+						h5
+							=(item.finish != "" ? item.finish + " place" : "")
+						p.text-muted
+							=item.notes
+				.col-md-6.col-sm-12.games
+					for game in item.results
+						div(class="row " + (game.result == "win" ? "text-success" : "text-danger"))
+							span.opponent
+								=game.opponent
+							span.score
+								=game.score

@@ -1,0 +1,110 @@
+{
+	"template": "roster.jade",
+	"players":
+	[
+		{
+			"name": "COLIN CLAUSET",
+			"number": "1"
+		},
+		{
+			"name": "CONSTANCE DUONG",
+			"number": "2"
+		},
+		{
+			"name": "TAESAN HOSE",
+			"number": "3"
+		},
+		{
+			"name": "ROSS O'BRIEN",
+			"number": "4"
+		},
+		{
+			"name": "CHRISTINA BRONSKY",
+			"number": "5"
+		},
+		{
+			"name": "THEODORE LAWS",
+			"number": "6"
+		},
+		{
+			"name": "CHESTER MILLISOCK",
+			"number": "7"
+		},
+		{
+			"name": "HANNAH SHERWOOD",
+			"number": "8"
+		},
+		{
+			"name": "EMILY SLACK",
+			"number": "10"
+		},
+		{
+			"name": "NATASHA PARMAN",
+			"number": "11"
+		},
+		{
+			"name": "ROB ATLAS",
+			"number": "12"
+		},
+		{
+			"name": "DAN GREELEY",
+			"number": "14"
+		},
+		{
+			"name": "Kristin Poinar",
+			"number": "17"
+		},
+		{
+			"name": "ERICA CONRAD",
+			"number": "18"
+		},
+		{
+			"name": "GABRIELLE MARKOFF",
+			"number": "19"
+		},
+		{
+			"name": "IAN BUCHANAN",
+			"number": "20"
+		},
+		{
+			"name": "CRAIG BECKER",
+			"number": "22"
+		},
+		{
+			"name": "STEPHEN ZAVALETA",
+			"number": "23"
+		},
+		{
+			"name": "ALPHA CHEN",
+			"number": "27"
+		},
+		{
+			"name": "COLIN FEATHERSTON-WILKINSON",
+			"number": "29"
+		},
+		{
+			"name": "GREGORY CONWAY",
+			"number": "42"
+		},
+		{
+			"name": "NATHAN BROWN",
+			"number": "43"
+		},
+		{
+			"name": "JULIANA WILLIAMS",
+			"number": "47"
+		},
+		{
+			"name": "AUGUSTUS LIDAKA",
+			"number": "64"
+		},
+		{
+			"name": "RILEY O'NEILL",
+			"number": "75"
+		},
+		{
+			"name": "ROMAN RYAN",
+			"number": "84"
+		}
+	]
+}

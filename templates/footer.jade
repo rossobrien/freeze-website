@@ -1,0 +1,11 @@
+.container
+	hr
+
+	footer
+		p.social
+			for item in locals.social
+				| &nbsp;
+				a(href=item.url)
+					i(class='fa fa-'+item.icon,alt=item.name)
+		small.text-muted
+			| &copy; 2014 Seattle Freeze Ultimate

@@ -1,0 +1,144 @@
+{
+	"template": "season.jade",
+	"tournaments":
+	[
+		{
+			"name": "The Hot Apple Turnover",
+			"location": "Wenatchee, WA",
+			"dates": "May 20-21, 2014",
+			"finish": "2nd",
+			"notes": "Tryout tournament",
+			"results": []
+		},
+		{
+			"name": "Log Jam",
+			"location": "Estacada, OR",
+			"dates": "June 28-29, 2014",
+			"finish": "9th",
+			"notes": "Unsanctioned tournament",
+			"results": []
+		},
+		{
+			"name": "Revolution",
+			"location": "San Francisco, CA",
+			"dates": "July 19-20, 2014",
+			"finish": "8th",
+			"notes": "",
+			"results":
+			[
+				{
+					"opponent": "American Barbecue",
+					"result": "loss",
+					"score": "6 - 13"
+				},
+				{
+					"opponent": "7 Figures",
+					"result": "loss",
+					"score": "8 - 12"
+				},
+				{
+					"opponent": "Blackbird",
+					"result": "win",
+					"score": "13 - 12"
+				},
+				{
+					"opponent": "Naughty Love",
+					"result": "win",
+					"score": "13 - 12"
+				},
+				{
+					"opponent": "Mischief",
+					"result": "loss",
+					"score": "7 - 13"
+				},
+				{
+					"opponent": "Classy",
+					"result": "loss",
+					"score": "7 - 13"
+				},
+				{
+					"opponent": "Dorado",
+					"result": "loss",
+					"score": "8 - 13"
+				}
+			]
+		},
+		{
+			"name": "Kleinman Eruption",
+			"location": "Corvallis, OR",
+			"dates": "August 9-10, 2014",
+			"finish": "4th",
+			"results": 
+			[
+				{
+					"opponent": "BirdFruit",
+					"result": "loss",
+					"score": "12 - 14"
+				},
+				{
+					"opponent": "The Administrators",
+					"result": "loss",
+					"score": "5 - 15"
+				},
+				{
+					"opponent": "Classy",
+					"result": "win",
+					"score": "15 - 12"
+				},
+				{
+					"opponent": "Tire Fire",
+					"result": "win",
+					"score": "13 - 12"
+				},
+				{
+					"opponent": "The Administrators",
+					"result": "loss",
+					"score": "9 - 15"
+				},
+				{
+					"opponent": "BirdFruit",
+					"result": "loss",
+					"score": "4 - 9"
+				}
+			]
+		},
+		{
+			"name": "Northwest Mixed Ultimate Cup",
+			"location": "Seattle, WA",
+			"dates": "August 23, 2014",
+			"finish": "5th",
+			"notes": "",
+			"results": 
+			[
+				{
+					"opponent": "D'oh! Abides",
+					"result": "loss",
+					"score": "7 - 15"
+				},
+				{
+					"opponent": "Ghetto Birds",
+					"result": "loss",
+					"score": "6 - 15"
+				},
+				{
+					"opponent": "Robot Twoniraffapus 3030",
+					"result": "win",
+					"score": "15 - 14"
+				},
+				{
+					"opponent": "The Administrators",
+					"result": "loss",
+					"score": "8 - 12"
+				}
+			]
+		},
+		{
+			"name": "Washington Mixed Sectionals",
+			"location": "Burlington, WA",
+			"dates": "September 6-7, 2014",
+			"finish": "",
+			"notes": "",
+			"results": []
+		}
+	]
+}

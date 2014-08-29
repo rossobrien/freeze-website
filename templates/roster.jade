@@ -1,0 +1,12 @@
+extends layout
+
+block content
+	.container
+		h1(style="text-align:center;") Roster
+
+		br
+
+		.row
+			for item in page.metadata.players
+				.col-md-3.col-sm-6.col-xs-12
+					=item.number + " - " + item.name
