@@ -1,0 +1,12 @@
+extends layout
+
+block content
+	.container
+		h1(style="text-align:center;") 
+			=page.title
+
+		span.text-muted
+			=moment(page.date).format('MMMM DD, YYYY')
+
+		article.article
+			section.content!= page.html

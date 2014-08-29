@@ -63,5 +63,25 @@
 			}
 
 		]
+	},
+	"plugins": [
+		"./plugins/paginator.coffee"
+	],
+	"require": {
+		"moment": "moment"
+	},
+	"jade": {
+		"pretty": true
+	},
+	"markdown": {
+		"smartLists": true,
+		"smartypants": true
+	},
+	"paginator":
+	{
+		"template": "blog.jade",
+		"articles": "blog",
+		"first": "/blog/index.html",
+		"perPage": 5
 	}
 }
