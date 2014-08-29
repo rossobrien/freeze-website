@@ -2,11 +2,15 @@ extends layout
 
 block content
 	.container
-		h1(style="text-align:center;") 
-			=page.title
-
-		span.text-muted
-			=moment(page.date).format('MMMM DD, YYYY')
-
 		article.article
+			header
+				h1= page.title
+
+				br
+
+				span.text-muted
+					=moment(page.date).format('MMMM DD, YYYY')
+
+			br
+
 			section.content!= page.html
