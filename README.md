@@ -1,4 +1,4 @@
 freeze-website
 ==============
 
-Website for Seattle Freeze ultimate team. [http://www.freezeultimate.com](www.freezeultimate.com)
+Website for Seattle Freeze ultimate team. [www.freezeultimate.com](http://www.freezeultimate.com)
