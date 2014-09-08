@@ -97,6 +97,10 @@ hr {
   text-align: left;
 }
 
+.player {
+  height: 200px;
+}
+
 .well {
   border-radius: 0;
   border: 0;

@@ -123,7 +123,7 @@
 				{
 					"opponent": "Robot Twoniraffapus 3030",
 					"result": "win",
-					"score": "15 - 14"
+					"score": "W - F"
 				},
 				{
 					"opponent": "The Administrators",
@@ -136,9 +136,45 @@
 			"name": "Washington Mixed Sectionals",
 			"location": "Burlington, WA",
 			"dates": "September 6-7, 2014",
-			"finish": "",
-			"notes": "",
-			"results": []
+			"finish": "6th",
+			"notes": "5 bids to regionals",
+			"results": [
+				{
+					"opponent": "TBD",
+					"result": "win",
+					"score": "13 - 7"
+				},
+				{
+					"opponent": "Skysharks",
+					"result": "loss",
+					"score": "10 - 13"
+				},
+				{
+					"opponent": "Fools and Horses",
+					"result": "win",
+					"score": "13 - 4"
+				},
+				{
+					"opponent": "Ghetto Birds",
+					"result": "loss",
+					"score": "7 - 13"
+				},
+				{
+					"opponent": "BirdFruit",
+					"result": "loss",
+					"score": "10 - 13"
+				},
+				{
+					"opponent": "Fools and Horses",
+					"result": "win",
+					"score": "15 - 4"
+				},
+				{
+					"opponent": "Robot Twoniraffapus 3030",
+					"result": "loss",
+					"score": "12 - 15"
+				}
+			]
 		}
 	]
 }

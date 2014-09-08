@@ -7,6 +7,13 @@ block content
 		br
 
 		.row
+			img.img-responsive(src="/images/team1.jpg")
+
+		.row
 			for item in page.metadata.players
 				.col-md-3.col-sm-6.col-xs-12
-					=item.number + " - " + item.name
+					.well.player
+						h2 
+							=item.number
+						h3
+							=item.name
