@@ -21,6 +21,11 @@
 				"url": "/roster"
 			},
 			{
+				"name": "Blog",
+				"description": "",
+				"url": "/blog"
+			},
+			{
 				"name": "Contact",
 				"description": "",
 				"url": "/contact"
