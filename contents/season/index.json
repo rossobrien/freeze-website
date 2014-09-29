@@ -137,7 +137,7 @@
 			"location": "Burlington, WA",
 			"dates": "September 6-7, 2014",
 			"finish": "6th",
-			"notes": "5 bids to regionals",
+			"notes": "5 bids to Regionals",
 			"results": [
 				{
 					"opponent": "TBD",
@@ -173,6 +173,45 @@
 					"opponent": "Robot Twoniraffapus 3030",
 					"result": "loss",
 					"score": "12 - 15"
+				}
+			]
+		},
+		{
+			"name": "Northwest Mixed Regionals",
+			"location": "Corvallis, OR",
+			"dates": "September 20-21, 2014",
+			"finish": "8th",
+			"notes": "3 bids to Nationals",
+			"results": [
+				{
+					"opponent": "Bozos",
+					"result": "win",
+					"score": "13 - 6"
+				},
+				{
+					"opponent": "Ghetto Birds",
+					"result": "loss",
+					"score": "4 - 13"
+				},
+				{
+					"opponent": "The Administrators",
+					"result": "loss",
+					"score": "4 - 13"
+				},
+				{
+					"opponent": "Skysharks",
+					"result": "loss",
+					"score": "11 - 13"
+				},				
+				{
+					"opponent": "makeshift",
+					"result": "loss",
+					"score": "7 - 13"
+				},
+				{
+					"opponent": "Skysharks",
+					"result": "loss",
+					"score": "9 - 15"
 				}
 			]
 		}
