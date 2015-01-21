@@ -4,7 +4,8 @@
 	[
 		{
 			"name": "COLIN CLAUSET",
-			"number": "1"
+			"number": "1",
+			"classname": "tallin"
 		},
 		{
 			"name": "CONSTANCE DUONG",
@@ -16,15 +17,18 @@
 		},
 		{
 			"name": "ROSS O'BRIEN",
-			"number": "4"
+			"number": "4",
+			"classname": "ross"
 		},
 		{
 			"name": "CHRISTINA BRONSKY",
-			"number": "5"
+			"number": "5",
+			"classname": "christina"
 		},
 		{
 			"name": "THEODORE LAWS",
-			"number": "6"
+			"number": "6",
+			"classname": "laws"
 		},
 		{
 			"name": "CHESTER MILLISOCK",
@@ -44,7 +48,8 @@
 		},
 		{
 			"name": "ROB ATLAS",
-			"number": "12"
+			"number": "12",
+			"classname": "rob"
 		},
 		{
 			"name": "DAN GREELEY",
@@ -52,15 +57,18 @@
 		},
 		{
 			"name": "KRISTIN POINAR",
-			"number": "17"
+			"number": "17",
+			"classname": "kristin"
 		},
 		{
 			"name": "ERICA CONRAD",
-			"number": "18"
+			"number": "18",
+			"classname": "erica"
 		},
 		{
 			"name": "GABRIELLE MARKOFF",
-			"number": "19"
+			"number": "19",
+			"classname": "gabby"
 		},
 		{
 			"name": "IAN BUCHANAN",
@@ -72,19 +80,23 @@
 		},
 		{
 			"name": "STEPHEN ZAVALETA",
-			"number": "23"
+			"number": "23",
+			"classname": "stephen"
 		},
 		{
 			"name": "ALPHA CHEN",
-			"number": "27"
+			"number": "27",
+			"classname": "alpha"
 		},
 		{
 			"name": "COLIN FEATHERSTON-WILKINSON",
-			"number": "29"
+			"number": "29",
+			"classname": "smallin"
 		},
 		{
 			"name": "GREGORY CONWAY",
-			"number": "42"
+			"number": "42",
+			"classname": "greg"
 		},
 		{
 			"name": "NATHAN BROWN",
@@ -92,11 +104,13 @@
 		},
 		{
 			"name": "JULIANA WILLIAMS",
-			"number": "47"
+			"number": "47",
+			"classname": "jules"
 		},
 		{
 			"name": "AUGUSTUS LIDAKA",
-			"number": "64"
+			"number": "64",
+			"classname": "pogo"
 		},
 		{
 			"name": "RILEY O'NEILL",
@@ -104,7 +118,8 @@
 		},
 		{
 			"name": "ROMAN RYAN",
-			"number": "84"
+			"number": "84",
+			"classname": "roman"
 		}
 	]
 }

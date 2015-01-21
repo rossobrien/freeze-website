@@ -108,6 +108,114 @@ hr {
  /* height: 270px; */
 }
 
+/* Player Image Styles */
+
+.alpha:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/alpha.jpeg");
+  background-position-y: -110px;
+  color: white;
+}
+
+.christina:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/christina.jpg");
+  background-position-y: -140px;
+  color: white;
+}
+
+.erica:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/erica.png");
+  background-position-y: -135px;
+  color: white;
+}
+
+.gabby:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/gabby.jpg");
+  background-position-y: -110px;
+  color: white;
+}
+
+.greg:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/greg.jpg");
+  background-position-y: -110px;
+  color: white;
+}
+
+.jules:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/jules.png");
+  background-position-y: -110px;
+  color: white;
+}
+
+.kristin:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/kristin.png");
+  background-position-y: -80px;
+  color: white;
+}
+
+.laws:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/laws.jpg");
+  background-position-y: -85px;
+  color: white;
+}
+
+.pogo:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/pogo.jpg");
+  background-position-y: -110px;
+  color: white;
+}
+
+.rob:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/rob.png");
+  background-position-y: -110px;
+  color: white;
+}
+
+.roman:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/roman.png");
+  background-position-y: -75px;
+  color: white;
+}
+
+.ross:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/ross.png");
+  background-position-x: 35px;
+  background-position-y: -60px;
+  color: white;
+}
+
+.smallin:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/smallin.png");
+  background-position-y: -45px;
+  color: white;
+}
+
+.stephen:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/stephen.jpg");
+  background-position-y: -90px;
+  color: white;
+}
+
+.tallin:hover {
+  background-size: cover;
+  background-image: url("/roster/pics/tallin.jpg");
+  background-position-y: -110px;
+  color: white;
+}
+
 footer {
   text-align: center;
 }
