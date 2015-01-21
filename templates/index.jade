@@ -20,9 +20,30 @@ block content
 		.row
 			.col-md-8
 				.well.latest
-					h2 Latest News
-					p
-						| No recent posts
+					h2 
+						| Latest News
+
+					- var articles = env.helpers.getArticles(contents)
+					- if (articles.length == 0) {
+						| No recent news!
+					- }
+					- var count = 0;
+					each article in articles
+						- if (count > 2) break;
+						- var days = moment(moment().startOf('day')).diff(moment(article.date).startOf('day'), 'days');
+						- if (days > 31) continue;
+						- var daysText = ' - ' + days + ' days ago';
+						- if (days == 0) daysText = ' - Today';
+						- if (days == 1) daysText = ' - Yesterday';
+						.row
+							.col-md-12
+								strong
+									a(href=article.url)
+										=article.title
+								span.text-muted
+									=daysText
+							
+
 
 			.col-md-4
 				img.img-responsive(src="/images/line.jpg")
