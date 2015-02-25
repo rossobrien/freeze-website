@@ -5,6 +5,9 @@ date: 2015-02-24 12:00
 template: post.jade
 ---
 
-Your Seattle Freeze captains for the 2015 season are Rob Atlas, Constance Duong, and Roman Ryan.
+Your Seattle Freeze captains for the 2015 season are Rob Atlas, Constance Duong, and Roman Ryan. 
+Keep an eye out for pre-season workouts, pickup, tryout dates, and other details about the upcoming season!
 
-![Captains](captains.jpg)
+
+
+<img class="img-responsive" style="margin: 0px auto; width: 75%;" src="/blog/2015-captains/captains.jpg" alt="Captains">
