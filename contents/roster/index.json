@@ -9,11 +9,13 @@
 		},
 		{
 			"name": "CONSTANCE DUONG",
-			"number": "2"
+			"number": "2",
+			"classname": "constance"
 		},
 		{
 			"name": "TAESAN HOSE",
-			"number": "3"
+			"number": "3",
+			"classname": "tae"
 		},
 		{
 			"name": "ROSS O'BRIEN",
@@ -32,19 +34,23 @@
 		},
 		{
 			"name": "CHESTER MILLISOCK",
-			"number": "7"
+			"number": "7",
+			"classname": "default"
 		},
 		{
 			"name": "HANNAH SHERWOOD",
-			"number": "8"
+			"number": "8",
+			"classname": "hannah"
 		},
 		{
 			"name": "EMILY SLACK",
-			"number": "10"
+			"number": "10",
+			"classname": "default"
 		},
 		{
 			"name": "NATASHA PARMAN",
-			"number": "11"
+			"number": "11",
+			"classname": "default"
 		},
 		{
 			"name": "ROB ATLAS",
@@ -53,7 +59,8 @@
 		},
 		{
 			"name": "DAN GREELEY",
-			"number": "14"
+			"number": "14",
+			"classname": "dan"
 		},
 		{
 			"name": "KRISTIN POINAR",
@@ -72,11 +79,13 @@
 		},
 		{
 			"name": "IAN BUCHANAN",
-			"number": "20"
+			"number": "20",
+			"classname": "ian"
 		},
 		{
 			"name": "CRAIG BECKER",
-			"number": "22"
+			"number": "22",
+			"classname": "craig"
 		},
 		{
 			"name": "STEPHEN ZAVALETA",
@@ -100,7 +109,8 @@
 		},
 		{
 			"name": "NATHAN BROWN",
-			"number": "43"
+			"number": "43",
+			"classname": "default"
 		},
 		{
 			"name": "JULIANA WILLIAMS",
@@ -114,7 +124,8 @@
 		},
 		{
 			"name": "RILEY O'NEILL",
-			"number": "75"
+			"number": "75",
+			"classname": "riley"
 		},
 		{
 			"name": "ROMAN RYAN",
