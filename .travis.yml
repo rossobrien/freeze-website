@@ -1,6 +1,7 @@
 language: node_js
 node_js:
     - "0.10"
-script: wintersmith build
+script: 
+    - "wintersmith build"
 after_success:
     'cd build && find ./ -type f -exec curl -u $FTP_USER:$FTP_PASS --ftp-create-dirs -T {} ftp://freezeultimate.com/{} \;'
