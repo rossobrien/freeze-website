@@ -1,6 +1,7 @@
 {
 	"dependencies": {
-		"moment": "2.3.x"
+		"moment": "2.3.x",
+		"wintersmith-articles-helper": "0.1.x"
 	},
 	"repository": "none"
 }
