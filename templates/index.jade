@@ -13,7 +13,7 @@ block content
 					p
 						| Seattle Freeze is a mixed team founded in 2014. We 
 						a(href="http://www.urbandictionary.com/define.php?term=Seattle%20Freeze&defid=5720299", target="_blank") make tentative plans
-						|, build snowmen, and play frosty ultimate!
+						|, build snowmen, and play frosty ultimate.
 			.col-md-4
 				img.img-responsive(src="images/constance_sm.jpg")
 
@@ -30,7 +30,7 @@ block content
 					- var count = 0;
 					each article in articles
 						- if (count > 2) break;
-						- var days = moment(moment().startOf('day')).diff(moment(article.date).startOf('day'), 'days');
+						- var days = moment(moment.tz('America/Los_Angeles').startOf('day')).diff(moment.tz(article.date, 'America/Los_Angeles').startOf('day'), 'days');
 						- if (days > 31) continue;
 						- var daysText = ' - ' + days + ' days ago';
 						- if (days == 0) daysText = ' - Today';
@@ -46,7 +46,7 @@ block content
 
 
 			.col-md-4
-				img.img-responsive(src="/images/team_sm.jpg")
+				img.img-responsive(src="/images/shoulders_sm.jpg")
 			.col-md-4
 				include webform.html
 
