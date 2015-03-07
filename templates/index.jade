@@ -30,18 +30,13 @@ block content
 					- var count = 0;
 					each article in articles
 						- if (count > 2) break;
-						- var days = moment(moment.tz('America/Los_Angeles').startOf('day')).diff(moment.tz(article.date, 'America/Los_Angeles').startOf('day'), 'days');
-						- if (days > 31) continue;
-						- var daysText = ' - ' + days + ' days ago';
-						- if (days == 0) daysText = ' - Today';
-						- if (days == 1) daysText = ' - Yesterday';
 						.row
 							.col-md-12
 								strong
 									a(href=article.url)
 										=article.title
 								span.text-muted
-									=daysText
+									=' - ' + moment.tz(article.date, 'America/Los_Angeles').format('MMMM DD')
 							
 
 

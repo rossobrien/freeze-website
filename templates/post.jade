@@ -7,7 +7,7 @@ block content
 				h1= page.title
 
 				span.text-muted
-					=moment(page.date).format('MMMM DD, YYYY')
+					=moment.tz(page.date, 'America/Los_Angeles').format('MMMM DD, YYYY')
 
 			br
 
