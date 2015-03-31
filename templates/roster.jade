@@ -2,19 +2,20 @@ extends layout
 
 block content
 	.container
-		h1(style="text-align:center;") Roster
+		h1(style="text-align:center;")
+			=page.metadata.title
 
 		br
 
 		.row
 			.col-md-12
-				img.img-responsive(src="/images/team1_sm.jpg")
+				img.img-responsive(src="pics/team.jpg")
 
 		.row
-			for item in page.metadata.players
+			for player in page.metadata.players
 				.col-md-3.col-sm-6.col-xs-12
-					div(class="well player #{item.classname}")
+					div(class="well player #{player.classname}")
 						h2 
-							=item.number
+							=player.number
 						h3
-							=item.name
+							=player.name
