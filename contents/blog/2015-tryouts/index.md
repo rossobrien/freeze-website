@@ -1,5 +1,5 @@
 ---
-title: 2015 Tryouts
+title: Freeze Tryouts - All The Details!
 author: Ross
 date: 2015-03-30 12:00
 template: post.jade
