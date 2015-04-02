@@ -6,7 +6,7 @@ branches:
     - master
 before_script: 
     - 'npm install wintersmith -g'
-script: 
-    - 'wintersmith build'
+script:
+    - 'rm -rf ./build && wintersmith build'
 after_success:
     'cd build && find ./ -type f -exec curl -u $FTP_USER:$FTP_PASS --ftp-create-dirs -T {} ftp://freezeultimate.com/{} \;'
