@@ -24,8 +24,6 @@ If you are interested in playing for Freeze this summer, please fill out this fo
 
 Please make sure to let us know what your situation is in the form: which tryouts will you be able to make it to/not make it to? Is there anything that would prevent you from accepting a roster spot if you're offered one?
 
-Since we're asking for tons of information from everyone, and because we're just a little voyeuristic, we figured we would share our tryout profiles with everyone. <br> [Rob's profile](Rob.pdf). [Constance's profile](Constance.pdf). [Roman's profile](Roman.pdf).
-
 Please note that we will be charging everyone 15$ to attend tryouts - this fee is to cover the cost of the fields. There are more details about how to get it to us in the form above.
 
 Our practice schedule will consist of one weekday practice, one weekend practice, and a weekly pod/track workout. Our tournament schedule will involve some or all of the following:
