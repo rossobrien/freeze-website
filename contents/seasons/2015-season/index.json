@@ -1,5 +1,38 @@
 {
 	"template": "season.jade",
 	"title": "2015 Schedule & Results",
-	"tournaments": []
+	"tournaments": [
+		{
+			"name": "Log Jam",
+			"location": "Hood River, OR",
+			"dates": "June 27-28, 2015",
+			"finish": "",
+			"notes": "",
+			"results": []
+		},
+		{
+			"name": "Revolution",
+			"location": "Davis, CA",
+			"dates": "July 18-19, 2015",
+			"finish": "",
+			"notes": "",
+			"results": []
+		},
+		{
+			"name": "Sectionals",
+			"location": "TBD",
+			"dates": "August 29-30, 2015",
+			"finish": "",
+			"notes": "",
+			"results": []
+		},
+		{
+			"name": "Regionals",
+			"location": "TBD",
+			"dates": "September 12-13, 2015",
+			"finish": "",
+			"notes": "",
+			"results": []
+		}
+	]
 }
