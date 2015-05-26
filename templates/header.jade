@@ -3,9 +3,19 @@
 		.header
 			ul.nav.nav-pills.pull-right
 				for item in locals.menu
-					li
-						a(href=item.url)
-							=item.name
+					if item.submenu.length > 0
+						li.dropdown
+							a(href=item.url, class="dropdown-toggle", data-toggle="dropdown", role="button")
+								=item.name
+							ul.dropdown-menu
+								for subitem in item.submenu
+									li
+										a(href=subitem.url)
+											=subitem.name
+					else
+						li
+							a(href=item.url)
+								=item.name
 			a(href="/")
 				img(src='/images/logo_small.png', alt=locals.name)
 

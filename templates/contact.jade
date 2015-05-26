@@ -10,7 +10,7 @@ block content
 			.col-md-12
 				for item in locals.contact
 					.col-md-4.col-sm-12(style="text-align:center;")
-						a(href=item.url)
+						a(href=item.url,target="_blank")
 							i(class='fa fa-3x fa-'+item.icon)
 							br
 							=item.name

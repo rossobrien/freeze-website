@@ -1,0 +1,84 @@
+{
+	"template": "roster.jade",
+	"title": "Roster",
+	"players": [
+		{
+			"name": "Rob Atlas"
+		},
+		{
+			"name": "Christina Bronsky"
+		},
+		{
+			"name": "Ian Buchanan"
+		},
+		{
+			"name": "Colin Buchanan"
+		},
+		{
+			"name": "Alpha Chen"
+		},
+		{
+			"name": "Rich \"Fraggle\" Coker"
+		},
+		{
+			"name": "Erica Conrad"
+		},
+		{
+			"name": "Luke Denison"
+		},
+		{
+			"name": "Constance Duong"
+		},
+		{
+			"name": "Taesan Hose"
+		},
+		{
+			"name": "Lydia Islan"
+		},
+		{
+			"name": "Aaron Knock"
+		},
+		{
+			"name": "Gabby Markoff"
+		},
+		{
+			"name": "Ross O'Brien"
+		},
+		{
+			"name": "Brian Roach"
+		},
+		{
+			"name": "Roman Ryan"
+		},
+		{
+			"name": "Hannah Sherwood"
+		},
+		{
+			"name": "Emily Slack"
+		},
+		{
+			"name": "Mallory Suarez"
+		},
+		{
+			"name": "Jonathan \"Jailbait Snuggles\" Thier"
+		},
+		{
+			"name": "Hana \"Scout\" Thier"
+		},
+		{
+			"name": "Ryan Van Hook"
+		},
+		{
+			"name": "Eric Vernon"
+		},
+		{
+			"name": "Ted Werbel"
+		},
+		{
+			"name": "Juliana \"Jules\" Williams"
+		},
+		{
+			"name": "Stephen Zavaleta"
+		}
+	]
+}

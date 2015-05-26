@@ -7,28 +7,46 @@
 		[
 			{
 				"name": "Home",
-				"description": "",
-				"url": "/"
+				"url": "/",
+				"submenu": []
 			},
 			{
 				"name": "Season",
-				"description": "",
-				"url": "/season"
+				"url": "/season",
+				"submenu": [
+					{
+						"name": "2015",
+						"url": "/seasons/2015-season"
+					},
+					{
+						"name": "2014",
+						"url": "/seasons/2014-season"
+					}
+				]
 			},
 			{
 				"name": "Roster",
-				"description": "",
-				"url": "/roster"
+				"url": "/roster",
+				"submenu":  [
+					{
+						"name": "2015",
+						"url": "/rosters/2015-roster"
+					},
+					{
+						"name": "2014",
+						"url": "/rosters/2014-roster"
+					}
+				]
 			},
 			{
 				"name": "Blog",
-				"description": "",
-				"url": "/blog"
+				"url": "/blog",
+				"submenu": []
 			},
 			{
 				"name": "Contact",
-				"description": "",
-				"url": "/contact"
+				"url": "/contact",
+				"submenu": []
 			}
 		],
 		"social": 
