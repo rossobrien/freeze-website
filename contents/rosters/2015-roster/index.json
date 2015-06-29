@@ -3,82 +3,108 @@
 	"title": "Roster",
 	"players": [
 		{
-			"name": "Rob Atlas"
+			"name": "Rob Atlas",
+			"number": "12"
 		},
 		{
-			"name": "Christina Bronsky"
+			"name": "Christina Bronsky",
+			"number": "5"
 		},
 		{
-			"name": "Ian Buchanan"
+			"name": "Ian Buchanan",
+			"number": "20"
 		},
 		{
-			"name": "Colin Buchanan"
+			"name": "Colin Buchanan",
+			"number": "29"
 		},
 		{
-			"name": "Alpha Chen"
+			"name": "Alpha Chen",
+			"number": "27"
 		},
 		{
-			"name": "Rich \"Fraggle\" Coker"
+			"name": "Rich \"Fraggle\" Coker",
+			"number": "37"
 		},
 		{
-			"name": "Erica Conrad"
+			"name": "Erica Conrad",
+			"number": "18"
 		},
 		{
-			"name": "Luke Denison"
+			"name": "Luke Denison",
+			"number": "21"
 		},
 		{
-			"name": "Constance Duong"
+			"name": "Constance Duong",
+			"number": "2"
 		},
 		{
-			"name": "Taesan Hose"
+			"name": "Taesan Hose",
+			"number": "3"
 		},
 		{
-			"name": "Lydia Islan"
+			"name": "Lydia Islan",
+			"number": "22"
 		},
 		{
-			"name": "Aaron Knock"
+			"name": "Aaron Knock",
+			"number": "33"
 		},
 		{
-			"name": "Gabby Markoff"
+			"name": "Gabby Markoff",
+			"number": "19"
 		},
 		{
-			"name": "Ross O'Brien"
+			"name": "Ross O'Brien",
+			"number": "4"
 		},
 		{
-			"name": "Brian Roach"
+			"name": "Brian Roach",
+			"number": "17"
 		},
 		{
-			"name": "Roman Ryan"
+			"name": "Roman Ryan",
+			"number": "84"
 		},
 		{
-			"name": "Hannah Sherwood"
+			"name": "Hannah Sherwood",
+			"number": "8"
 		},
 		{
-			"name": "Emily Slack"
+			"name": "Emily Slack",
+			"number": "10"
 		},
 		{
-			"name": "Mallory Suarez"
+			"name": "Mallory Suarez",
+			"number": "11"
 		},
 		{
-			"name": "Jonathan \"Jailbait Snuggles\" Thier"
+			"name": "Jonathan \"Jailbait Snuggles\" Thier",
+			"number": "9"
 		},
 		{
-			"name": "Hana \"Scout\" Thier"
+			"name": "Hana \"Scout\" Thier",
+			"number": "44"
 		},
 		{
-			"name": "Ryan Van Hook"
+			"name": "Ryan Van Hook",
+			"number": "0"
 		},
 		{
-			"name": "Eric Vernon"
+			"name": "Eric Vernon",
+			"number": "16"
 		},
 		{
-			"name": "Ted Werbel"
+			"name": "Ted Werbel",
+			"number": "1"
 		},
 		{
-			"name": "Juliana \"Jules\" Williams"
+			"name": "Juliana \"Jules\" Williams",
+			"number": "47"
 		},
 		{
-			"name": "Stephen Zavaleta"
+			"name": "Stephen Zavaleta",
+			"number": "23"
 		}
 	]
 }
