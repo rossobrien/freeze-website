@@ -6,14 +6,53 @@
 			"name": "Log Jam",
 			"location": "Hood River, OR",
 			"dates": "June 27-28, 2015",
-			"finish": "",
-			"notes": "",
-			"results": []
+			"finish": "5th",
+			"notes": "Unsanctioned tournament",
+			"results": [
+				{
+					"opponent": "Bunny Huckit",
+					"result": "win",
+					"score": "13 - 4"
+				},
+				{
+					"opponent": "RoCnCoCem",
+					"result": "win",
+					"score": "13 - 8"
+				},
+				{
+					"opponent": "Natural 20s",
+					"result": "win",
+					"score": "13 - 7"
+				},
+				{
+					"opponent": "Birdfruit",
+					"result": "loss",
+					"score": "6 - 13"
+				},
+				{
+					"opponent": "Pegasus",
+					"result": "loss",
+					"score": "8 - 13"
+				},
+				{
+					"opponent": "FDCD",
+					"result": "win",
+					"score": "9 - 8"
+				}
+			]
 		},
 		{
 			"name": "Revolution",
 			"location": "Davis, CA",
 			"dates": "July 18-19, 2015",
+			"finish": "",
+			"notes": "",
+			"results": []
+		},
+		{
+			"name": "Kleinman Eruption",
+			"location": "OR",
+			"dates": "August 8-9, 2015",
 			"finish": "",
 			"notes": "",
 			"results": []
