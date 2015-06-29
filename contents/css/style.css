@@ -117,6 +117,10 @@ hr {
  /* height: 270px; */
 }
 
+.img-center {
+  margin: 0px auto;
+}
+
 /* Player Image Styles */
 
 .alpha:hover {
