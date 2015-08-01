@@ -45,9 +45,89 @@
 			"name": "Revolution",
 			"location": "Davis, CA",
 			"dates": "July 18-19, 2015",
-			"finish": "",
+			"finish": "8th",
 			"notes": "",
-			"results": []
+			"results": [
+				{
+					"opponent": "Blackbird",
+					"result": "loss",
+					"score": "3 - 13"
+				},
+				{
+					"opponent": "Classy",
+					"result": "loss",
+					"score": "7 - 10"
+				},
+				{
+					"opponent": "American Barbecue",
+					"result": "loss",
+					"score": "6 - 13"
+				},
+				{
+					"opponent": "BW Ultimate",
+					"result": "loss",
+					"score": "8 - 12"
+				},
+				{
+					"opponent": "Public Enemy",
+					"result": "win",
+					"score": "12-11"
+				},
+				{
+					"opponent": "Blackbird",
+					"result": "loss",
+					"score": "8 - 13"
+				},
+				{
+					"opponent": "Bernardo",
+					"result": "loss",
+					"score": "11 - 12"
+				},
+				{
+					"opponent": "Alchemy",
+					"result": "loss",
+					"score": "5 - 10"
+				}
+			]
+		},
+		{
+			"name": "Northwest Mixed Cup",
+			"location": "Seattle, WA",
+			"dates": "July 25-26, 2015",
+			"finish": "5th",
+			"notes": "",
+			"results": [
+				{
+					"opponent": "Mental Toss Flycoons",
+					"result": "loss",
+					"score": "4 - 15"
+				},
+				{
+					"opponent": "The Administrators",
+					"result": "loss",
+					"score": "9 - 15"
+				},
+				{
+					"opponent": "Seattle Mixtape",
+					"result": "loss",
+					"score": "6 - 15"
+				},
+				{
+					"opponent": "Pegasus",
+					"result": "win",
+					"score": "14 - 11"
+				},
+				{
+					"opponent": "BirdFruit",
+					"result": "loss",
+					"score": "12 - 15"
+				},
+				{
+					"opponent": "Pegasus",
+					"result": "win",
+					"score": "15 - 12"
+				}
+			]
 		},
 		{
 			"name": "Kleinman Eruption",
