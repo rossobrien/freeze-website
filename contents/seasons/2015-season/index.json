@@ -15,7 +15,7 @@
 					"score": "13 - 4"
 				},
 				{
-					"opponent": "RoCnCoCem",
+					"opponent": "RoC'n'CoC'em",
 					"result": "win",
 					"score": "13 - 8"
 				},
@@ -135,7 +135,38 @@
 			"dates": "August 8-9, 2015",
 			"finish": "",
 			"notes": "",
-			"results": []
+			"results": [				
+				{
+					"opponent": "Platypi",
+					"result": "loss",
+					"score": "6 - 13"
+				},
+				{
+					"opponent": "RoC'n'CoC'em",
+					"result": "loss",
+					"score": "10 - 13"
+				},
+				{
+					"opponent": "Mental Toss Flycoons",
+					"result": "loss",
+					"score": "7 - 13"
+				},
+				{
+					"opponent": "Pegasus",
+					"result": "loss",
+					"score": "8 - 12"
+				},
+				{
+					"opponent": "FDCD",
+					"result": "win",
+					"score": "15 - 11"
+				},
+				{
+					"opponent": "RoC'n'CoC'em",
+					"result": "loss",
+					"score": "12 - 15"
+				}
+			]
 		},
 		{
 			"name": "Sectionals",
