@@ -169,19 +169,41 @@
 			]
 		},
 		{
-			"name": "Sectionals",
-			"location": "TBD",
+			"name": "WA Mixed Sectionals",
+			"location": "Burlington, WA",
 			"dates": "August 29-30, 2015",
-			"finish": "",
-			"notes": "",
-			"results": []
+			"finish": "3rd",
+			"notes": "5 bids to Regionals",
+			"results": [
+				{
+					"opponent": "All Aboard",
+					"result": "win",
+					"score": "10 - 7"
+				},
+				
+				{
+					"opponent": "BirdFruit",
+					"result": "loss",
+					"score": "12 - 13"
+				},
+				{
+					"opponent": "Pegasus",
+					"result": "win",
+					"score": "9 - 6"
+				},
+				{
+					"opponent": "Seattle Mixtape",
+					"result": "loss",
+					"score": "2 - 5"
+				}
+			]
 		},
 		{
-			"name": "Regionals",
-			"location": "TBD",
+			"name": "NW Mixed Regionals",
+			"location": "Burlington, WA",
 			"dates": "September 12-13, 2015",
 			"finish": "",
-			"notes": "",
+			"notes": "2 bids to Nationals",
 			"results": []
 		}
 	]
