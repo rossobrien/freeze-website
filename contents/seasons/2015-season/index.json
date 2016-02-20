@@ -202,9 +202,45 @@
 			"name": "NW Mixed Regionals",
 			"location": "Burlington, WA",
 			"dates": "September 12-13, 2015",
-			"finish": "",
+			"finish": "6th",
 			"notes": "2 bids to Nationals",
-			"results": []
+			"results": [
+				{
+					"opponent": "RoC'n'CoC'em",
+					"result": "loss",
+					"score": "11 - 13"
+				},
+				{
+					"opponent": "BirdFruit",
+					"result": "loss",
+					"score": "7 - 13"
+				},
+				{
+					"opponent": "All Aboard",
+					"result": "win",
+					"score": "13 - 6"
+				},
+				{
+					"opponent": "makeshift",
+					"result": "loss",
+					"score": "9 - 13"
+				},
+				{
+					"opponent": "Bozos",
+					"result": "win",
+					"score": "15 - 9"
+				},
+				{
+					"opponent": "RoC'n'CoC'em",
+					"result": "loss",
+					"score": "14 - 15"
+				},
+				{
+					"opponent": "The Administrators",
+					"result": "loss",
+					"score": "10 - 14"
+				}
+			]
 		}
 	]
 }
