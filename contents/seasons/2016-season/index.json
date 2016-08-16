@@ -1,5 +1,147 @@
 {
 	"template": "season.jade",
 	"title": "2016 Schedule & Results",
-	"tournaments": []
+	"tournaments": [
+		{
+			"name": "TCT Elite-Select Challenge",
+			"location": "Columbus, OH",
+			"dates": "July 9-10, 2016",
+			"finish": "13th",
+			"notes": "",
+			"results": [
+				{
+					"opponent":	"Love Tractor",
+					"result": "loss",
+					"score": "10 - 13"
+
+				},
+				{
+					"opponent":	"Bird",
+					"result": "loss",
+					"score": "12 - 13"
+
+				},
+				{
+					"opponent":	"AMP",
+					"result": "loss",
+					"score": "3 - 13"
+
+				},
+				{
+					"opponent":	"PleasureTown",
+					"result": "win",
+					"score": "12 - 11"
+
+				},
+				{
+					"opponent":	"Cahoots",
+					"result": "win",
+					"score": "14 - 13"
+
+				},
+				{
+					"opponent":	"Sweet Action",
+					"result": "win",
+					"score": "13 - 8"
+
+				}
+			]
+		},
+		{
+			"name": "Northwest Mixed Cup",
+			"location": "Seattle, WA",
+			"dates": "July 23, 2016",
+			"finish": "4th",
+			"notes": "",
+			"results": [
+				{
+					"opponent":	"Pegasus",
+					"result": "loss",
+					"score": "8 - 13"
+				},
+				{
+					"opponent":	"Birdfruit",
+					"result": "loss",
+					"score": "4 - 13"
+				},
+				{
+					"opponent":	"Seattle Mixtape",
+					"result": "loss",
+					"score": "4 - 13"
+				},
+				{
+					"opponent":	"Bulleit Train",
+					"result": "win",
+					"score": "13 - 7"
+				},
+				{
+					"opponent":	"Flying Circus Disc Club",
+					"result": "win",
+					"score": "13 - 8"
+				}
+			]
+		},
+		{
+			"name": "Kleinman Eruption",
+			"location": "Corvallis, OR",
+			"dates": "August 13-14, 2016",
+			"finish": "10th",
+			"notes": "",
+			"results": [				
+				{
+					"opponent": "The Administrators",
+					"result": "loss",
+					"score": "11 - 14"
+				},
+				{
+					"opponent": "Ursa Major",
+					"result": "win",
+					"score": "15 - 9"
+				},
+				{
+					"opponent": "BFG",
+					"result": "loss",
+					"score": "11 - 15"
+				},
+				{
+					"opponent": "Platypi",
+					"result": "loss",
+					"score": "9 - 15"
+				},
+				{
+					"opponent": "Bozos",
+					"result": "loss",
+					"score": "11 - 15"
+				},
+				{
+					"opponent": "Igneous Ultimate",
+					"result": "win",
+					"score": "15 - 11"
+				},
+				{
+					"opponent": "Groove",
+					"result": "loss",
+					"score": "8 - 15"
+				}
+			]
+		},
+		{
+			"name": "WA Mixed Sectionals",
+			"location": "Burlington, WA",
+			"dates": "August 27-28, 2016",
+			"finish": "",
+			"notes": "",
+			"results": [
+			]
+		},
+		{
+			"name": "NW Mixed Regionals",
+			"location": "Burlington, WA",
+			"dates": "September 10-11, 2016",
+			"finish": "",
+			"notes": "",
+			"results": [
+			]
+		}
+	]
 }

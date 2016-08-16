@@ -1,5 +1,141 @@
 {
 	"template": "roster.jade",
 	"title": "Roster",
-	"players": []
+	"players": [
+		{
+			"name": "Erin Armstrong",
+			"number": "30"
+		},
+		{
+			"name": "Rob Atlas",
+			"number": "12"
+		},
+		{
+			"name": "Christina Bronsky",
+			"number": "5"
+		},
+		{
+			"name": "Stephen Burkot",
+			"number": "24"
+		},
+		{
+			"name": "Jacob Chiang",
+			"number": "31"
+		},
+		{
+			"name": "Bret Coffey",
+			"number": "13"
+		},
+		{
+			"name": "Rich \"Fraggle\" Coker",
+			"number": "37"
+		},
+		{
+			"name": "Erica Conrad",
+			"number": "18"
+		},
+		{
+			"name": "Tom Crawford",
+			"number": "27"
+		},
+		{
+			"name": "Luke Denison",
+			"number": "55"
+		},
+		{
+			"name": "Sam Dinning",
+			"number": "15"
+		},
+		{
+			"name": "Dana Dunbar",
+			"number": "11"
+		},
+		{
+			"name": "Constance Duong",
+			"number": "2"
+		},
+		{
+			"name": "Kate Dusenbury",
+			"number": "51"
+		},
+		{
+			"name": "Ellen Goldberg",
+			"number": "17"
+		},
+		{
+			"name": "Taesan Hose",
+			"number": "3"
+		},
+		{
+			"name": "Neeyati \"Yeti\" Johnson",
+			"number": "14"
+		},
+		{
+			"name": "Gabby Markoff",
+			"number": "19"
+		},
+		{
+			"name": "Ross O'Brien",
+			"number": "4"
+		},
+		{
+			"name": "Emily Slack",
+			"number": "10"
+		},
+		{
+			"name": "Nathan Stock",
+			"number": "84"
+		},
+		{
+			"name": "Keegan Taggart",
+			"number": "81"
+		},
+		{
+			"name": "Claire Thallon",
+			"number": "88"
+		},
+		{
+			"name": "Jonathan \"Jailbait Snuggles\" Thier",
+			"number": "9"
+		},
+		{
+			"name": "Anna Thompson",
+			"number": "29"
+		},
+		{
+			"name": "Ryan Van Hook",
+			"number": "0"
+		},
+		{
+			"name": "Juliana Williams",
+			"number": "47"
+		},
+		{
+			"name": "Julie \"Cricket\" Xia",
+			"number": "16"
+		},
+		{
+			"name": "Max Zaslove",
+			"number": "7"
+		}
+	],
+	"practice": [
+		{
+			"name": "Alpha Chen"
+		},
+		{
+			"name": "Colin Clauset"
+		},
+		{
+			"name": "Lydia Islan"
+		},
+		{
+			"name": "Maya Smorodinsky"
+		}
+	],
+	"advisors": [
+		{
+			"name": "Matt Mackey"
+		}
+	]
 }

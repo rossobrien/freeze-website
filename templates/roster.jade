@@ -14,8 +14,31 @@ block content
 		.row
 			for player in page.metadata.players
 				.col-md-3.col-sm-6.col-xs-12
-					div(class="well player #{player.classname}")
+					div(class="well player")
 						h2 
 							=player.number
 						h3
 							=player.name
+		if page.metadata.practice						
+			.row
+				h3
+					| Practice Players
+				for practice in page.metadata.practice
+					.col-md-3.col-sm-6.col-xs-12
+						div(class="well player")
+							h2
+								| &nbsp;
+							h3
+								=practice.name
+
+		if page.metadata.advisors						
+			.row
+				h3
+					| Advisor
+				for advisor in page.metadata.advisors
+					.col-md-3.col-sm-6.col-xs-12
+						div(class="well player")
+							h2
+								| &nbsp;
+							h3
+								=advisor.name
