@@ -18,3 +18,11 @@ block content
 						br
 
 						section.content!= article.intro
+		.row
+			.col-md-12
+				if prevPage
+					.pull-left
+					a(href=prevPage.url) &laquo; Newer
+				if nextPage
+					.pull-right
+						a(href=nextPage.url) Older &raquo;		

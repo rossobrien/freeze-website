@@ -109,6 +109,7 @@
 		"template": "blog.jade",
 		"articles": "blog",
 		"first": "/blog/index.html",
+		"filename": "/blog/%d/index.html",
 		"perPage": 5
 	},
 	"articlesHelper": 
